@@ -1,6 +1,6 @@
 # TD
 
-##Week 1
+## Week 1
 
 **Partie 1 - IAAS**
 
@@ -119,7 +119,7 @@ php_value[soap.wsdl_cache_dir]  = /var/lib/php/7.2/wsdlcache
 5. Création d'une instance ec2
 6. Installation de nginx, php et Phpmyadmin sur cette instance
 
-### Commands
+#### Commands
 1. ./terraform plan -out myFirstPlan
 2. ./terraform apply myFirstPlan
 
